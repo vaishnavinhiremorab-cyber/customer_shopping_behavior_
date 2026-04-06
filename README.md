@@ -22,4 +22,4 @@ Based on the data, I recommend targeting "Young Adults" and "Middle-aged" groups
 
 ### 📊 Dashboard Preview
 ![Customer Shopping Behavior Dashboard](dashboard_preview.png)
-(https://github.com/vaishnavinhiremorab-cyber/customer_shopping_behavior_/blob/main/SnapShot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/vaishnavinhiremorab-cyber/customer_shopping_behavior_/blob/main/SnapShot%20of%20the%20Dashboard.png)
