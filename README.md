@@ -1,4 +1,7 @@
 # customer_shopping_behavior_
+🛍️ Customer Shopping Behavior Analysis
+This project uses Python, SQL, and Power BI to analyze 3,900 retail transactions, uncovering key spending trends and customer loyalty segments. It provides actionable insights to help retailers optimize marketing and grow subscription revenue. 
+
 🎯 Project Overview
 Welcome! This project explores the shopping habits of 3,900 customers to help a retail business make smarter decisions. By analyzing everything from age groups to shipping preferences, I’ve identified exactly where the revenue is coming from and how to grow it even further. 
 
